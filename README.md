@@ -23,10 +23,11 @@ The good things about forking:
 5. Make a Pull Request (PR) from your own fork to the main repository
 6. Check whether some issues were found in the review process
 7. When ready, marvel the changes that you made to the main project after the project maintainer has merged the changes to the main repo
-8. JLR testing
+8. MH testing
 
 ### Task: Add text below here
 
 HT: test
 EA: test
 JLR: test2
+MH: test
